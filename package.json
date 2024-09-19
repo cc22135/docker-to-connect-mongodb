@@ -1,0 +1,12 @@
+{
+  "name": "docker-to-connect-mongodb",
+  "version": "1.0.0",
+  "description": "- Refatorar a api acessando o mongoDB no docker - subir a api no docker  - usar o docker compose para fazer link entre a api e o mongodb dentro docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
