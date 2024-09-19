@@ -6,3 +6,6 @@
 
 ### rotas 
 - [GET] username e password
+- Dados locados:
+- criar uma classe com os atributos de user e pass
+- criar uma lista de objeto da classe com 3 info no minimo
