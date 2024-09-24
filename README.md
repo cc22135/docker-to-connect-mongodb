@@ -6,6 +6,14 @@
 
 ### rotas 
 - [GET] username e password
+<<<<<<< Updated upstream
 - Dados locados:
+=======
+
+
+- programar uma api em NodeJs
+- Get para user
+- Dados locados: mockados
+>>>>>>> Stashed changes
 - criar uma classe com os atributos de user e pass
 - criar uma lista de objeto da classe com 3 info no minimo
